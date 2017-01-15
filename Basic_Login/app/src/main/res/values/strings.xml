@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic_Login</string>
+    <string name="user_name">UserName</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="empty_username">Enter the UserName</string>
+    <string name="empty_password">Enter the Password</string>
+    <string name="wrong_username">Wrong UserName</string>
+    <string name="wrong_password">Wrong Password</string>
+    <string name="success_login">Successfull Login</string>
+</resources>
