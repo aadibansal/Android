@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_detail_message">Android wird von Google entwickelt</string>
+    <string name="ios_detail_message">IOS wird von Apple entwickelt</string>
+    <string name="windows_detail_message">Windows wird von Microsoft entwickelt</string>
+</resources>

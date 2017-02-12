@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="android" translatable="false">Android</string>
+    <string name="ios" translatable="false">iOS</string>
+    <string name="windows" translatable="false">Windows</string>
+
+    <string name="android_detail_message">Android is developed by Google</string>
+    <string name="ios_detail_message">iOS is developed by Apple</string>
+    <string name="windows_detail_message">Windows is developed by Microsoft</string>
+</resources>

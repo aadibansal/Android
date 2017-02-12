@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Preference_Fragment</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="this_edittext_will_display_hint">This EditText will display hint</string>
+    <string name="open_preference">Open Preference</string>
+
+    <string-array name="tint_entries">
+        <item>Primary</item>
+        <item>Primary Dark</item>
+        <item>Accent</item>
+    </string-array>
+</resources>

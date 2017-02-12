@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="user_name">Enter Your UserName</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="in_userName">Invalid UserName</string>
+    <string name="in_password">Invalid Password</string>
+    <string name="login_success">Login Successful</string>
+    <string name="login_failed">Login Failed</string>
+</resources>

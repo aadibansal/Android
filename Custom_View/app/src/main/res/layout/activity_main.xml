@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.aditya.custom_view.PercentageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/percentageView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="@dimen/activity_horizontal_margin"
+    app:color_res="@color/colorAccent"
+    app:fontSize="15sp"
+    app:value=".3" >
+</com.example.aditya.custom_view.PercentageView>

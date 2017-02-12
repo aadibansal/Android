@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="google">Google</string>
+    <string name="yahoo">Yahoo</string>
+</resources>

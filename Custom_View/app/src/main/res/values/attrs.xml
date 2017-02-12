@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PercentageView">
+        <attr name="value" format="float" />
+        <attr name="color_res" format="reference" />
+        <attr name="fontSize" format="dimension" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Appearance">
+
+        <ListPreference
+            android:entries="@array/tint_entries"
+            android:entryValues="@array/tint_entries"
+            android:key="tintColorKey"
+            android:summary="set tint color"
+            android:title="Set Tint Color" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Personal Info">
+
+        <EditTextPreference
+            android:dialogTitle="Please enter username"
+            android:key="usernameKey"
+            android:summary="set username"
+            android:title="Set Username" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

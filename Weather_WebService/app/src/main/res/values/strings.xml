@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather_WebService</string>
+    <string name="fetching_weather_info">Fetching Weather Info</string>
+    <string name="weather_info_fetch_success">Weather info fetched successfully</string>
+    <string name="fetching_weather_info_success">Fetching Weather Info</string>
+    <string name="fetching_weather_info_failure">Failed to get weather info</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="country">Country</string>
+    <string name="description">Description</string>
+    <string name="temp">Temp</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature_min">Temperature Min</string>
+    <string name="temperature_max">Temperature Max</string>
+    <string name="speed">Speed</string>
+    <string name="degree">Degree</string>
+    <string name="name">Name</string>
+    <string name="deg">deg</string>
+    <string name="dt">dt</string>
+</resources>
