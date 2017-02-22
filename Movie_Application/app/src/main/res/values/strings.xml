@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie_Application</string>
+    <string name="api_key">55957fcf3ba81b137f8fc01ac5a31fb5</string>
+    <string name="fetching_movie_info_failure">Fetching Movies List Fail</string>
+    <string name="language">en-US</string>
+    <string name="duration">Duration: </string>
+    <string name="releaseDate">Release Date: </string>
+    <string name="homePage">HomePage: </string>
+    <integer name="numColumns">2</integer>
+</resources>
